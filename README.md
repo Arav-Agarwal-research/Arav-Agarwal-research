@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Arav Agarwal
 
-<!--
-**Arav-Agarwal-research/Arav-Agarwal-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Stanford undergraduate interested in AI, machine learning, and computer vision. My research experience includes applying machine learning to satellite imagery and using foundation models for image segmentation.
 
-Here are some ideas to get you started:
+I'm currently exploring language models and reinforcement learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Research
+
+- **[Satellite Image Label Correction with SAM/SAM2](https://github.com/Arav-Agarwal-research/img-label-correction-SAM)** — A research project at Woodwell Climate Research Center using prompt-based segmentation to update outdated permafrost feature boundaries, with dashboards for evaluation and expert review.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/arav-agarwal-621899301/)
